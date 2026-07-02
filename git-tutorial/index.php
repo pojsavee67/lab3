@@ -1,2 +1,3 @@
-<?php echo "what your fav colour? 
+<?php 
+    echo "ที่ใจมันเต้นเป็นเพราะตูดเธอเด้ง" 
 ?>
