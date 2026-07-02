@@ -1,4 +1,4 @@
-<?php echo "what your fav colour?"; ?>
-<?php echo "yungtarr"; ?>
+
+<?php echo "ที่ใจมันเต้นมันเป็นเพราะตูดเธอเด้ง"; ?>
 
 
