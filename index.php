@@ -1,6 +1,4 @@
-<?php 
-echo "My repo"
+<?php echo "what your fav colour?" ?>
+<?php echo "yungtarr" ?>
 
 
-
-?>
